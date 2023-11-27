@@ -1,0 +1,57 @@
+body{
+    padding-top: 65px;
+    /* border: solid red 1px; */
+}
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+}
+h2 a{
+    font-weight: 600;
+    color:rgb(73, 157, 159);
+    text-decoration: none;
+}
+h2 a:hover{
+    color: rgb(95, 106, 160);
+}
+.about i{
+    font-size: 3.5rem;
+}
+i{
+    font-size: 2.5rem;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.background{
+    z-index: -1;
+    width: 100%;
+    height: auto;
+    position: fixed;
+}
+.header{
+    font-size: 4rem;
+    font-weight: 600;
+    color: rgb(247, 162, 58);
+}
+.describe{
+    line-height: 2;
+    font-size: 1.5rem;
+    color: rgb(95, 106, 160);
+}
+.classes{
+    font-size: 1.7rem;
+}
+.submit label{
+    font-size: 1.5rem;
+}
+.submit input{
+    width: 60%;
+}
+textarea{
+    margin-left: 30px;
+    width: 70%;
+    height: 150px;
+}
